@@ -1,0 +1,10 @@
+export { default as NewClientAddSection } from "./InvoiceView/NewClientAddSection";
+export { default as AddNewProduct } from "./InvoiceView/AddNewProduct";
+export { default as IndividualProductList } from "./InvoiceView/IndividualProductList";
+export { default as ProductTableBody } from "./InvoiceView/ProductTableBody";
+export { default as DashWidget } from "./Dashboard/DashWidget";
+export { default as ClientTable } from "./Dashboard/ClientTable";
+export { default as ProductTable } from "./Dashboard/ProductTable";
+export { default as InvoiceTable } from "./Dashboard/InvoiceTable";
+export { default as PaymentTable } from "./Dashboard/PaymentTable";
+export { default as StatsInfo } from "./Dashboard/StatsInfo";

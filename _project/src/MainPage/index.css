@@ -1,0 +1,46 @@
+
+/* a {
+    color: rgb(0 0 0 / 1);
+} */
+.note-popover .popover-content, .note-editor .note-toolbar {
+    background: #f5f5f5 !important;
+    border-bottom: 1px solid rgba(0,0,0,.125) !important;
+}
+.note-editor.note-frame .note-editing-area .note-editable, .note-editor.note-airframe .note-editing-area .note-editable {   
+    background-color: white;
+}
+
+.recharts-cartesian-grid-vertical{
+    display: none !important;
+}
+
+.recharts-cartesian-axis-line{
+    display: none !important;
+}
+.recharts-legend-wrapper{
+    display: none !important;
+}
+.recharts-text{
+    font-size: 12px !important;
+    font-weight: normal !important;
+}
+.recharts-line{
+    height:10px !important
+}
+.recharts-tooltip-wrapper{
+    border-radius: 5px !important;
+}
+.recharts-surface{
+ padding-right: 40px;
+}
+.recharts-default-tooltip{
+    margin: 0px;
+    white-space: nowrap;
+    border-radius: 10px;
+    padding: 6px !important;
+    color: #666 !important;
+    background: rgba(255,255,255,0.8) !important;
+    border: solid 2px rgba(230,230,230,0.8) !important;
+    font-size: 12px;
+    text-align: center;
+}
